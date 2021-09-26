@@ -1,9 +1,17 @@
 
 
 this is page 2 of chapter 1
-
+let me see
 our second file
 
 now we have git enabled
 
 let me recommit
+
+edit: had a good idea
+made some changes
+
+Hello 1 2 3
+hello 4 5 6
+
+
